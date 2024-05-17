@@ -1,6 +1,6 @@
 # Table
 
----
+
 
 ### Examples of Illegal Identifiers
 | Illegal Identifier  | Description                                           |
