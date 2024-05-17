@@ -26,16 +26,16 @@
 
 - **binary digit** *(bit)* - 1 or 0.
 
-- **binary code** *(binary number)* - Sequence of 1s and 0s.  
+- **binary code** *(binary number)* - Sequence of 1s and 0s. [^2]
 
-- **Bit** - A binary digit of 1 or 0.
+- **Bit** - A binary digit of 1 or 0. [^2]
 
-- **byte** - A sequence of eight bits.
+- **byte** - A sequence of eight bits. [^2]
 
 - **American Standard Code for Information Interchange** *(ASCII)* - Most commonly used seven-bit encoding scheme. Data set consists of 128 characters number 0 through 127. 
 
 - **decimal system** *(base 10)* - Number system that we use in our daily lives.
 
 
-[^1]: [CPU and Main Memory](Diagrams/CPU-and-MainMemory.png)
-[^2]: [Binary Table](Tables.MD#binary-units)
+[^1]: [CPU and Main Memory Diagram](Diagrams/CPU-and-MainMemory.png)
+[^2]: [Binary Units](Tables.MD#binary-units)
