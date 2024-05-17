@@ -1,4 +1,4 @@
-## Chapter 1
+# Terms
 
 - **central processing unit** *(CPU)* - Brain of the computer. The faster the CPU the faster the computer. [^1]
 - **main memory** *(random access memory, RAM)* - Directly connected to the CPU. All programs must be loaded into main
