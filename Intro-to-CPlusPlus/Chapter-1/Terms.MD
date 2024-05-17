@@ -39,4 +39,3 @@
 
 [^1]: [CPU and Main Memory](Diagrams/CPU-and-MainMemory.png)
 [^2]: [Binary Table](Tables.MD#binary-units)
-[^3]: [TEST](Terms.MD#central-processing-unit-cpu---brain-of-the-computer-the-faster-the-cpu-the-faster-the-computer-1)
