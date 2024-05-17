@@ -22,7 +22,8 @@
   set consists of 128 characters number 0 through 127.
 - **decimal system** *(base 10)* - Number system that we use in our daily lives.
 - **binary** *(base 2)* - Number system that computers use.
-- **mnemonic** - An instruction in assembly with an easy to remember form.
+- **mnemonic** - An instruction in assembly with an easy to remember form. [^3]
 
 [^1]: [CPU and Main Memory Diagram](Diagrams/CPU-and-MainMemory.png)
 [^2]: [Binary Units](Tables.MD#binary-units)
+[^3]: [Instructions in Assembly and Machine](Tables.MD#instructions-in-assembly-language-and-machine-language)
