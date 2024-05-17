@@ -2,7 +2,7 @@
 
 **main memory** *(random access memory, RAM)* - Directly connected to the CPU. All programs must be loaded into main memory before they can be executed.
 
-**memory cells** - This is what main memory is made up of. They are in an ordered sequence. 
+**memory cells** - This is what main memory is made up of. They are in an ordered sequence.
 
 **address** - A cells unique location in main memory. 
 
@@ -30,4 +30,6 @@
 
 **byte** - A sequence of eight bits.
 
-**kilobyte** *(KB)* - 2^10^ bytes or 1024 bytes.
+**kilobyte** *(KB)* - 2<sup>10</sup> bytes or 1024 bytes.
+
+**megabyte** *(MB)* - 
