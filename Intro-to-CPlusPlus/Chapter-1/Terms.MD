@@ -1,41 +1,28 @@
 ## Chapter 1
 
 - **central processing unit** *(CPU)* - Brain of the computer. The faster the CPU the faster the computer. [^1]
-
-- **main memory** *(random access memory, RAM)* - Directly connected to the CPU. All programs must be loaded into main memory before they can be executed. [^1]
-
+- **main memory** *(random access memory, RAM)* - Directly connected to the CPU. All programs must be loaded into main
+  memory before they can be executed. [^1]
 - **memory cells** - This is what main memory is made up of. They are in an ordered sequence. [^1]
-
-- **address** - A cells unique location in main memory. 
-
+- **address** - A cells unique location in main memory.
 - **secondary storage** - The location in which the device stores information permanently. [^1]
-
 - **input device** - Device that feeds data and programs into a computer. [^1]
-
 - **output device** - Device that the computer uses to display results. [^1]
-
 - **System programs** - Programs that control the computer.
-
 - **operating system** - Monitors the overall activity of the computer and provides services.
-
 - **analog signal** - Continuous wave forms used to represent information.
-
 - **digital signal** - Represent information in sequence of 1s and 0s.
-
-- **machine language** - Digital signal being processed inside a computer. The language of a computer. Sequences of 1s and 0s.
-
+- **machine language** - Digital signal being processed inside a computer. The language of a computer. Sequences of 1s
+  and 0s.
 - **binary digit** *(bit)* - 1 or 0.
-
 - **binary code** *(binary number)* - Sequence of 1s and 0s. [^2]
-
 - **Bit** - A binary digit of 1 or 0. [^2]
-
 - **byte** - A sequence of eight bits. [^2]
-
-- **American Standard Code for Information Interchange** *(ASCII)* - Most commonly used seven-bit encoding scheme. Data set consists of 128 characters number 0 through 127. 
-
+- **American Standard Code for Information Interchange** *(ASCII)* - Most commonly used seven-bit encoding scheme. Data
+  set consists of 128 characters number 0 through 127.
 - **decimal system** *(base 10)* - Number system that we use in our daily lives.
-
+- **binary** *(base 2)* - Number system that computers use.
+- **mnemonic** - An instruction in assembly with an easy to remember form.
 
 [^1]: [CPU and Main Memory Diagram](Diagrams/CPU-and-MainMemory.png)
 [^2]: [Binary Units](Tables.MD#binary-units)

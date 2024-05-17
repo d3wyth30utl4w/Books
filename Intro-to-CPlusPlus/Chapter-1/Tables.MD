@@ -11,3 +11,14 @@
 | Exabyte   | EB     | 1024 PB = 2<sup>10</sup> PB = 2<sup>60</sup> bytes = 1,152,921,504,606,846,976 bytes     |
 | Zettabyte | ZB     | 1024 EB = 2<sup>10</sup> EB = 2<sup>70</sup> bytes = 1,180,591,620,717,411,303,424 bytes |
 
+
+# Instructions in Assembly Language and Machine Language
+| Assembly Language | Machine Language |
+|-------------------|------------------|
+| LOAD              | 100100           |
+| STOR              | 100010           |
+| MULT              | 100110           |
+| ADD               | 100101           |
+| SUB               | 100011           |
+
+
