@@ -2,7 +2,7 @@
 
 ---
 
-## Binary Units
+### Binary Units
 | Unit      | Symbol | Bits/Bytes                                                                               |
 |-----------|--------|------------------------------------------------------------------------------------------|
 | Bit       |        | 1 or 0                                                                                   |
@@ -16,7 +16,7 @@
 | Zettabyte | ZB     | 1024 EB = 2<sup>10</sup> EB = 2<sup>70</sup> bytes = 1,180,591,620,717,411,303,424 bytes |
 
 
-## Instructions in Assembly Language and Machine Language
+### Instructions in Assembly Language and Machine Language
 | Assembly Language | Machine Language |
 |-------------------|------------------|
 | LOAD              | 100100           |
