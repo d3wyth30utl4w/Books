@@ -1,5 +1,7 @@
 # Book List
 
+---
+
 ## [C++ Programming: Program Design Including Data Structures](Intro-to-CPlusPlus)
 - [x] [Chapter 1](Intro-to-CPlusPlus/Chapter-1): An Overview of Computer and Programming Languages
 - [ ] **[Chapter 2](Intro-to-CPlusPlus/Chapter-2): Basic Elements of C++**
