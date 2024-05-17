@@ -30,6 +30,6 @@
 
 **byte** - A sequence of eight bits.
 
-**kilobyte** *(KB)* - 2<sup>10</sup> bytes or 1024 bytes.
+**American Standard Code for Information Interchange** *(ASCII)* - Most commonly used seven-bit encoding scheme. Data set consists of 128 characters number 0 through 127. 
 
-**megabyte** *(MB)* - 
+**decimal system** *(base 10)* - Number system that we use in our daily lives.
