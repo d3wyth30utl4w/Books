@@ -14,3 +14,11 @@ Programs are like recipes.
 ---
 
 `<<` - Stream line insertion operator
+
+--- 
+
+C++ has three token types
+
+1. Special Symbols
+2. Reserved Words (keywords)
+3. Identifiers
