@@ -19,3 +19,4 @@
 
 > [!NOTE]
 > This is only a general guide. Different compilers allow different amounts.
+> If you want to find your exact amount run [memory_size_on_system.cpp](../Programs/memory_size_on_system.cpp)
