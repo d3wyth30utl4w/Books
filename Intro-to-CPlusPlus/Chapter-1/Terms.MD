@@ -1,3 +1,5 @@
+## Chapter 1
+
 - **central processing unit** *(CPU)* - Brain of the computer. The faster the CPU the faster the computer. [^1]
 
 - **main memory** *(random access memory, RAM)* - Directly connected to the CPU. All programs must be loaded into main memory before they can be executed. [^1]
@@ -36,4 +38,5 @@
 
 
 [^1]: [CPU and Main Memory](Diagrams/CPU-and-MainMemory.png)
-[^2]: [Binary Table]()
+[^2]: [Binary Table](Tables.MD#binary-units)
+[^3]: [TEST](Terms.MD#central-processing-unit-cpu---brain-of-the-computer-the-faster-the-cpu-the-faster-the-computer-1)
