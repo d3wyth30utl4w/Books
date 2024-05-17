@@ -35,8 +35,15 @@
 - **linker** - A program that combines the object program with programs from libraries. [^4] [^5]
 - **loader** - A program that loads an executable program into main memory. [^4] [^5]
 - **algorithm** - A step-by-step problem-solving process in which a solution is arrived at in a finite amount of time. [^5]
+- **structured design** - Dividing a problem into smaller subproblems.
+- **structured programming** - A program that implements structured design.
+- **top-down design** - *See structured design*.
+- **bottom-up design** - *See structured design*.
+- **stepwise refinement** - *See structured design*
+- **modular programming** - *See structured design*.
+- **object-oriented design** *(OOD)* - Collection of objects interacting with each other.
+- **object-oriented programmng** *(OOP)* - A program that implements OOD.
 - 
-
 [^1]: [CPU and Main Memory Diagram](Diagrams/CPU-and-Main-Memory.png)
 [^2]: [Binary Units](Tables.MD#binary-units)
 [^3]: [Instructions in Assembly and Machine Language](Tables.MD#instructions-in-assembly-language-and-machine-language)
