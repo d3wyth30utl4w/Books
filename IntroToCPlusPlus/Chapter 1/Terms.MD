@@ -30,4 +30,4 @@
 
 **byte** - A sequence of eight bits.
 
-**kilobyte** *(KB)* - 2^10^ bytes or 1024 bytes.
+**kilobyte** *(KB)* - 2^10 bytes or 1024 bytes.
