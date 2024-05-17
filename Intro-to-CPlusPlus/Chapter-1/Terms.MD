@@ -23,7 +23,21 @@
 - **decimal system** *(base 10)* - Number system that we use in our daily lives.
 - **binary** *(base 2)* - Number system that computers use.
 - **mnemonic** - An instruction in assembly with an easy to remember form. [^3]
+- **assembler** - A program that translates assembly into an equivalent program in machine language.
+- **high-level languages** - Programming language that is closer to natural language.
+- **compiler** - Translates instructions written in high-level languages into equivalent machine language.
+- **source code** *(source program)* - A program written in a high level language. [^4]
+- **preprocessor directives** - Statements that begin with #. 
+- **preprocessor** - A program that processes preprocessor directives. [^4]
+- **object program** - The machine language version of the high-level language program.
+- **integrated development environment** *(IDE)* - Program needed for writing programs that use a high-level language. 
+- **library** - Prewritten code (program) that contains useful code for what you are trying to achieve. [^4]
+- **linker** - A program that combines the object program with programs from libraries. [^4]
+- **loader** - A program that loads an executable program into main memory. [^4]
+- **algorithm** - A step-by-step problem-solving process in which a solution is arrived at in a finite amount of time.
+- 
 
 [^1]: [CPU and Main Memory Diagram](Diagrams/CPU-and-MainMemory.png)
 [^2]: [Binary Units](Tables.MD#binary-units)
-[^3]: [Instructions in Assembly and Machine](Tables.MD#instructions-in-assembly-language-and-machine-language)
+[^3]: [Instructions in Assembly and Machine Language](Tables.MD#instructions-in-assembly-language-and-machine-language)
+[^4]: [Processing a C++ Program](Diagrams/CPlusPlus-Program-Processing.png)
