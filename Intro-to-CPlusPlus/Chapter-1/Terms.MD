@@ -1,4 +1,4 @@
-**central processing unit** *(CPU)* - Brain of the computer. The faster the CPU the faster the computer [^1]
+**central processing unit** *(CPU)* - Brain of the computer. The faster the CPU the faster the computer.
 
 **main memory** *(random access memory, RAM)* - Directly connected to the CPU. All programs must be loaded into main memory before they can be executed. [^1]
 
@@ -35,4 +35,4 @@
 **decimal system** *(base 10)* - Number system that we use in our daily lives.
 
 
-[^1]: [Diagram](Diagram/CPU-and-MainMemory.png)
+[^1]: [Diagram of main memory on left](Diagrams/CPU-and-MainMemory.png)
