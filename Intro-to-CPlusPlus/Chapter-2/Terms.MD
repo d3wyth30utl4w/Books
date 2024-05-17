@@ -13,4 +13,9 @@ which are not.
 - **token** - The smallest individual unit of a program written in any language.
 - **keyword** - Reserved words in a programming language.
 - **identifier** - Names of things that appear in a program.
-- 
+- **data type** - A set of values together with a set of operations. [^1]
+- **integral** - Data type that deals with integers, or numbers without the decimal part.
+- **floating-point** - Data type that deals with decimal numbers.
+- **enumerations** - User defined data type.
+
+[^1]: [C++ Data Types](Diagrams/CPlusPlus-Data-Types.png)

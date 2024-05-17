@@ -22,3 +22,25 @@ C++ has three token types
 1. Special Symbols
 2. Reserved Words (keywords)
 3. Identifiers
+
+--- 
+
+Categories of integral data type:
+- `char`
+- `short`
+- `int`
+- `long`
+- `bool`
+- `unsigned char`
+- `unsigned short`
+- `unsigned int`
+- `unsigned long`
+
+---
+
+Newer programming languages only have intergral data types:
+- `integer`
+- `real`
+- `char`
+- `bool`
+- enumeration 
