@@ -1,6 +1,6 @@
-**central processing unit** *(CPU)* - Brain of the computer. The faster the CPU the faster the computer
+**central processing unit** *(CPU)* - Brain of the computer. The faster the CPU the faster the computer [^1]
 
-**main memory** *(random access memory, RAM)* - Directly connected to the CPU. All programs must be loaded into main memory before they can be executed.
+**main memory** *(random access memory, RAM)* - Directly connected to the CPU. All programs must be loaded into main memory before they can be executed. [^1]
 
 **memory cells** - This is what main memory is made up of. They are in an ordered sequence.
 
@@ -33,3 +33,6 @@
 **American Standard Code for Information Interchange** *(ASCII)* - Most commonly used seven-bit encoding scheme. Data set consists of 128 characters number 0 through 127. 
 
 **decimal system** *(base 10)* - Number system that we use in our daily lives.
+
+
+[^1]: Main Memory and CPU process.
