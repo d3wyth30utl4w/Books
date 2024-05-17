@@ -35,4 +35,4 @@
 **decimal system** *(base 10)* - Number system that we use in our daily lives.
 
 
-[^1]: Main Memory and CPU process.
+[^1]: [Diagram](Diagram/CPU-and-MainMemory.png)
