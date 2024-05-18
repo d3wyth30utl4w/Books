@@ -46,6 +46,19 @@
 - **decrement operator** - '--'
 - **output statement** - A statement containing `cout` and `<<`.
 - **stream insertion operator** - `<<`
-- **preprocessor** - 
+- **source code file** *(source file)* - The files that contains the source code.
+- **declarative statement** - A statement that is used to declare things, such as variables.
+- **executable statements** - A statement that preforms a calculations, manipulates data, creates output, accepts input,
+etc.
+- **statement terminator** - `;`
+- **semantics** - Sets of rules that gives meaning to a language.
+- **self-documenting** - Variables that describe themselves. 
+- **run-together word** - Variables that have words that runs together.
+- **prompt lines** - Executable statements that inform the user what to do.
+- **simple assigment statements** - A simple statement using arithmetic operators.
+- **compound assignment statements** - A statement that uses a compound operator.
+- 
+
+
 
 [^1]: [C++ Data Types](Diagrams/CPlusPlus-Data-Types.png)
