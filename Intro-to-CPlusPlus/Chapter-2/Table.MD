@@ -1,4 +1,4 @@
-# Table
+# Tables
 
 
 
@@ -61,3 +61,15 @@ int main() {
 | After Statement 4  | 45    | **45** | 9     | `num2 / 5 = 45 / 5 / = 9`. This value is assigned to `num3`. So `num3 = 9`.                            |
 | After Statement 5  | 45    | 45     | **2** | `num3 / 4 = 9 / 4 = 2`. This value is assigned to `num3`, which replaces<br/> the old value of `num3`. ||
     
+
+
+### Commonly Used Escape Sequences
+|      | Escape Sequence  | Description                                                            |
+|------|------------------|------------------------------------------------------------------------|
+| `\n` | Newline          | Cursor moves to the beginning of the next line.                        |
+| `\t` | Tab              | Cursor moves to the next tab stop.                                     |
+| `\b` | Backspace        | Cursor moves one space to the left.                                    |
+| `\r` | Return           | Cursor moves to the beginning of the current line (not the next line). |
+| `\\` | Backslash        | Backslash is printed.                                                  |
+| `\'` | Single quotation | Single quotation mark is printed.                                      |
+| `\"`   | Double quotation | Double quotation mark is printed.                                      |
