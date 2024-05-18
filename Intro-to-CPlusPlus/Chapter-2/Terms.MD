@@ -31,6 +31,6 @@
 - **mixed expression** - Refer to an expression where there are mixed operands.
 - **implicit type coercion** - Occurs when a value of one data type automatically changed to another data type.
 - **cast operator** *(type conversion or type casting)*- Used to avoid implicit type coercion
-
+- 
 
 [^1]: [C++ Data Types](Diagrams/CPlusPlus-Data-Types.png)
