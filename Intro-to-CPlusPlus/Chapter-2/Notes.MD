@@ -44,3 +44,7 @@ Newer programming languages only have intergral data types:
 - `char`
 - `bool`
 - enumeration 
+
+---
+
+On most newer compilers, the data types double and long double are the same.

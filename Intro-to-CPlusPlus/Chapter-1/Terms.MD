@@ -45,7 +45,9 @@
 - **modular programming** - *See structured design*.
 - **object-oriented design** *(OOD)* - Collection of objects interacting with each other.
 - **object-oriented programmng** *(OOP)* - A program that implements OOD.
-- 
+
+
+
 [^1]: [CPU and Main Memory Diagram](Diagrams/CPU-and-Main-Memory.png)
 [^2]: [Binary Units](Tables.MD#binary-units)
 [^3]: [Instructions in Assembly and Machine Language](Tables.MD#instructions-in-assembly-language-and-machine-language)
