@@ -53,3 +53,5 @@ On most newer compilers, the data types double and long double are the same.
 
 Cast operator can also be used as `dataType(expression)`. This for is called C-like casting. However, `static_cast` is
 more stable than C-like casting.
+
+---

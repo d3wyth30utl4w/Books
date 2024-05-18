@@ -31,6 +31,12 @@
 - **mixed expression** - Refer to an expression where there are mixed operands.
 - **implicit type coercion** - Occurs when a value of one data type automatically changed to another data type.
 - **cast operator** *(type conversion or type casting)*- Used to avoid implicit type coercion
-- 
+- **string** - A sequence of zero of more characters. Enclosed in double quotation marks.
+- **null** *(empty)* - A string containing no characters.
+- **named constant** - A memory location whose content is not allowed to change during program execution.
+- **variable** - A memory location in which content may change during program execution.
+- **simple** - Used to define a datatype that can only store one value at a time.
+- **initialized** - First time a value is placed in a variable.
+- **assignment operator** - =
 
 [^1]: [C++ Data Types](Diagrams/CPlusPlus-Data-Types.png)
