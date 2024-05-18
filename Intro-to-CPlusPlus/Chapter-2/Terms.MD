@@ -20,7 +20,7 @@
 - **precision** - Maximum number of significant digits.
 - **single precision** - Float values are sometimes referred to as this.
 - **double precision** - Values of double are referred to this
-- **arithmetic operators** - + (addition), - (subtraction or negation), * (multiplication), / (division), % (mod, (
+- **arithmetic operators** - `+` (addition), `-` (subtraction or negation), `*` (multiplication), `/` (division), `%` (mod, (
   modulus or remainder))
 - **arithmetic expression** - Constructed by using arithmetic operators and numbers.
 - **operand** - Numbers appearing an expression.
@@ -37,6 +37,15 @@
 - **variable** - A memory location in which content may change during program execution.
 - **simple** - Used to define a datatype that can only store one value at a time.
 - **initialized** - First time a value is placed in a variable.
-- **assignment operator** - =
+- **assignment operator** - `=`
+- **walk-through** - Tracing value through a sequence.
+- **associativity** - The way a operator is evaluated.
+- **input (read)** - Use of the `cin` and the `>>` operator.
+- **stream extraction operator** - `>>`
+- **increment operator** - `++`
+- **decrement operator** - '--'
+- **output statement** - A statement containing `cout` and `<<`.
+- **stream insertion operator** - `<<`
+- 
 
 [^1]: [C++ Data Types](Diagrams/CPlusPlus-Data-Types.png)

@@ -33,7 +33,7 @@
 | 7800.0      | 7.800000E3                  |
 
 
-### Walk-Through
+### Walk-Through Example
 
 ```c++
 #include <iostream>

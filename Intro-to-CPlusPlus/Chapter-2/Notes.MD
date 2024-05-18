@@ -55,3 +55,6 @@ Cast operator can also be used as `dataType(expression)`. This for is called C-l
 more stable than C-like casting.
 
 ---
+
+pre-increment and post-increment are both increment variables. The difference is that pre-increment adds plus one before
+operations. Post-increment adds plus one after.
