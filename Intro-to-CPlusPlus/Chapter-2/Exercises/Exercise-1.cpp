@@ -11,4 +11,5 @@ int main() {
     std::cout << "*" << "\t" << "Due Date: Thursday, Jan. 24" << "\t" << "*" << std::endl;
     std::cout << "*********************************" << std::endl;
 
+    return 0;
 }

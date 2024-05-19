@@ -5,14 +5,27 @@
 
 
     *********************************
-    *   Programming Assignment 1    * 1
-    *   Computer Programming I      * 3
-    *   Author: ???                 * 5
-    *   Due Date: Thursday, Jan. 24 * 1
+    *   Programming Assignment 1    * 
+    *   Computer Programming I      * 
+    *   Author: ???                 * 
+    *   Due Date: Thursday, Jan. 24 * 
     *********************************
 
 In your program, substitute ??? with your own name. If necessary, adjust the position and the number of star to produce 
 a rectangle. 
 
 
-[SOLUTION](Exercise-1.cpp)
+[Solution](Exercise-1.cpp)
+
+
+2. Write a program that produces that following output.
+ ***   
+    CCCCCCCCC       ++               ++
+    CC              ++               ++
+    CC        ++++++++++++++   ++++++++++++++
+    CC        ++++++++++++++   ++++++++++++++
+    CC              ++               ++
+    CCCCCCCCC       ++               ++
+***
+
+[Solution](Exercise-2.cpp)
